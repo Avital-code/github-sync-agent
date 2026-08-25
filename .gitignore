@@ -1,0 +1,3 @@
+# LSP / linter caches
+.lsp/
+.clj-kondo/.cache/
